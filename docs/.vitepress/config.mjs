@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Solving Problems",
+  base: '/APS',
   description: "문제 해결하기",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
