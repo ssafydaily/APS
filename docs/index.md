@@ -8,19 +8,19 @@ hero:
   tagline: 태그들
   actions:
     - theme: brand
-      text: Vuejs
-      link: /vuejs/
+      text: 배열(array)
+      link: /01_array/
     - theme: alt
-      text: DRF
-      link: /drf/
+      text: 문제들
+      link: /09_problems/
     
 
 features:
-  - title: Python
-    details: 파이썬으로 코딩하기    
-  - title: Javascript
-    details: JS 기본, DOM
-  - title: Vuejs3
-    details: SPA, SFC, 상태 관리, 라우터, ...
+  - title: 자료구조
+    details: 주요 자료구조의 이해와 활용
+  - title: 알고리즘
+    details: 검색, 정렬, 완전탐색, 백트래킹, DP...
+  - title: 문제해결
+    details: 시간복잡도, 문제유형, ...
 ---
 
